@@ -1,0 +1,147 @@
+.brand-name {
+  margin-left: 10rem;
+  margin-top: 1rem;
+}
+.logo {
+  height: 50px;
+  width: 100px;
+}
+.navbar {
+  margin-left: 10rem;
+  margin-top: 1rem;
+}
+.nav-item {
+  padding-left: 20px;
+}
+.nav-link {
+  font-size: 15px;
+  font-weight: 700;
+}
+span {
+  color: #485ff8;
+}
+#home {
+  margin-top: 10rem;
+  margin-left: 3rem;
+  min-height: 80vh;
+}
+.home-caption {
+  font-size: 100px;
+  text-align: center;
+  color: #333333;
+  font-family: Montserrat;
+  font-weight: 900;
+}
+.home-image {
+  width: 500px;
+  height: 500px;
+}
+.promo-text {
+  color: #333333;
+  font-size: 10px;
+  font-weight: bold;
+}
+.promo {
+  text-decoration: none;
+}
+.header {
+  background-color: linen;
+}
+.pdt-dpn {
+  font-size: 20px;
+  font-weight: bold;
+}
+.product-header {
+  text-align: center;
+  padding-top: 12rem;
+}
+.product-body {
+  font-weight: bold;
+  font-size: larger;
+}
+.product {
+  background-color: #485ff8;
+  min-height: 50vh;
+}
+.pdt-head {
+  font-size: 30px;
+  font-weight: bolder;
+}
+.speci-head {
+  color: #333333;
+  margin-top: 2rem;
+  font-weight:bold;
+  font-family: Montserrat;
+  font-size:50px;
+  text-align: center;
+}
+.speci-detailh{
+  background-color: #485ff8;
+  padding-top:2rem;
+  height: 5rem;
+  margin-top: 1rem;
+}
+.speci-detailb{
+  background-color: #f4f4f4;
+  padding-top: 2rem;
+  margin-top: 1rem;
+}
+.speci-detailh5{
+  padding-left: 2rem;
+}
+.speci-foot{
+  height: 5rem;
+}
+.fab {
+  padding-top: 5px;
+  font-size: 20px;
+  width: 40px;
+  height: 30px;
+  text-align: center;
+  text-decoration: none;
+}
+/* .marg{  */
+/* margin: 20px;  */
+/* padding-top: 20px; */
+
+/* }  */
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook-square {
+  background: #3b5998;
+  color: white;
+}
+
+/* Twitter */
+.fa-twitter {
+  background: #55acee;
+  color: white;
+}
+.fa-youtube {
+  background: #ff0000;
+  color: white;
+}
+.fa-whatsapp {
+  background: #25d366;
+  color: white;
+}
+.foot-main{
+  background-color: #485ff8;
+  padding-top: 5rem;
+  min-height: 40vh;
+}
+.foot-head{
+  color:white;
+  text-align: center;
+}
+.contact-page{
+  color: white;
+  text-align: center;
+}
