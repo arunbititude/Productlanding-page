@@ -29,7 +29,7 @@ span {
   font-size: 100px;
   text-align: center;
   color: #334343;
-  font-family: Montserrat;
+  font-family:fantasy;
   font-weight: 900;
 }
 .home-image {
@@ -71,7 +71,6 @@ span {
   color: #334343;
   margin-top: 2rem;
   font-weight:bold;
-  font-family: Montserrat;
   font-size:50px;
   text-align: center;
 }
@@ -82,7 +81,7 @@ span {
   margin-top: 1rem;
 }
 .speci-detailb{
-  background-color: #f4e6f4;
+  background-color: #f3eced;
   padding-top: 2rem;
   margin-top: 1rem;
 }
