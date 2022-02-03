@@ -18,7 +18,7 @@
   font-weight: 700;
 }
 span {
-  color: #495ef8;
+  color: burlywood;
 }
 #home {
   margin-top: 10rem;
@@ -28,8 +28,8 @@ span {
 .home-caption {
   font-size: 100px;
   text-align: center;
-  color: #334343;
-  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: black;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
   font-weight: 900;
 }
 .home-image {
@@ -37,8 +37,8 @@ span {
   height: 500px;
 }
 .promo-text {
-  color: #334343;
-  font-size: 10px;
+  color: black;
+  font-size: 20px;
   font-weight: bold;
 }
 .promo {
@@ -60,7 +60,7 @@ span {
   font-size: larger;
 }
 .product {
-  background-color: #495ef8;
+  background-color: burlywood;
   min-height: 50vh;
 }
 .pdt-head {
@@ -68,27 +68,27 @@ span {
   font-weight: bolder;
 }
 .speci-head {
-  color: #334343;
+  color: burlywood;
   margin-top: 2rem;
-  font-weight:bold;
-  font-size:50px;
+  font-weight: bold;
+  font-size: 50px;
   text-align: center;
 }
-.speci-detailh{
-  background-color:#495ef8;
-  padding-top:2rem;
+.speci-detailh {
+  background-color: black;
+  color: white;
+  padding-top: 2rem;
   height: 5rem;
   margin-top: 1rem;
 }
-.speci-detailb{
-  background-color: #f3eced;
+.speci-detailb {
   padding-top: 2rem;
   margin-top: 1rem;
 }
-.speci-detailh5{
+.speci-detailh5 {
   padding-left: 2rem;
 }
-.speci-foot{
+.speci-foot {
   height: 5rem;
 }
 .fab {
@@ -114,7 +114,7 @@ span {
 
 /* Facebook */
 .fa-facebook-square {
-  background: #3b5998;
+  background: burlywood;
   color: white;
 }
 
@@ -131,16 +131,16 @@ span {
   background: #25d366;
   color: white;
 }
-.foot-main{
-  background-color: #485ef8;
+.foot-main {
+  background-color: burlywood;
   padding-top: 5rem;
   min-height: 40vh;
 }
-.foot-head{
-  color:white;
+.foot-head {
+  color: white;
   text-align: center;
 }
-.contact-page{
+.contact-page {
   color: white;
   text-align: center;
 }
